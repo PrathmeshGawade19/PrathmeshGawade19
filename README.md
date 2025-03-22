@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ About Me<br><br>I am a third-year Computer Engineering student specializing in AI & ML, with a strong foundation in Data Analytics. Proficient in Python for AI/ML, C++ for DSA, and the MERN stack for web development, I am passionate about building innovative solutions. I was a finalist at ByteCamp25 Hackathon (among 1000+ participants) held at Navi Mumbai.</p>
+<p align="left"><h3 align="left">✨ About Me</h3>I am a third-year Computer Engineering student specializing in AI & ML, with a strong foundation in Data Analytics. Proficient in Python for AI/ML, C++ for DSA, and the MERN stack for web development, I am passionate about building innovative solutions. I was a finalist at ByteCamp25 Hackathon (among 1000+ participants) held at Navi Mumbai.</p>
 <hr>
 
 
@@ -72,12 +72,12 @@
 
 ###
 <hr>
-<p align="left">🎓 Education<br>🎓 10th Grade, Shri Mahavir Jain English School (2010 – 2020) - 94% <br>🎓 MHTCET22, Competitive Examination (2020 – 2022) - 95.76% <br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 2026) - 9.01 CGPA</p>
+<p align="left"><h3 align="left">🎓 Education</h3>🎓 10th Grade, Shri Mahavir Jain English School (2010 – 2020) - 94% <br>🎓 MHTCET22, Competitive Examination (2020 – 2022) - 95.76% <br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 2026) - 9.01 CGPA</p>
 <hr>
 
 
 
-<p align="left">📊 GitHub Stats</p>
+<p align="left"><h3 align="left">📊 GitHub Stats</h3></p>
 
 
 ###
