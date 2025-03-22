@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ About Me<br><br>I am a third-year Computer Engineering student specializing in AI & ML, with a strong foundation in Data Analytics. Proficient in Python for AI/ML, C++ for DSA, and the MERN stack for web development, I am passionate about building innovative solutions. I was a finalist at ByteCamp25 Hackathon (among 1000+ participants).</p>
+<p align="left">✨ About Me<br><br>I am a third-year Computer Engineering student specializing in AI & ML, with a strong foundation in Data Analytics. Proficient in Python for AI/ML, C++ for DSA, and the MERN stack for web development, I am passionate about building innovative solutions. I was a finalist at ByteCamp25 Hackathon (among 1000+ participants) held at Navi Mumbai.</p>
 <hr>
 
 
