@@ -63,7 +63,7 @@
 
 ###
 <hr>
-<p align="left"><h3 align="left">🎓 Education</h3>🎓 10th Grade, Shri Mahavir Jain English School (2010 – 2020) - 94% <br>🎓 MHTCET22, Competitive Examination (2020 – 2022) - 95.76% <br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 2026) - 9.01 CGPA</p>
+<p align="left"><h3 align="left">🎓 Education</h3>🎓 10th Grade, Shri Mahavir Jain English School (2010 – 2020) - 94% <br>🎓 MHTCET22, Competitive Examination (2020 – 2022) - 95.76% <br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 2026) - 9.11 CGPA</p>
 <hr>
 
 
