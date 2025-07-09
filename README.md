@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><h3 align="left">✨ About Me</h3>I am a third-year Computer Engineering student specializing in AI & ML. Proficient in Python for AI/ML, C++ for DSA, and web development, I am passionate about building innovative solutions. I was a finalist at ByteCamp25 Hackathon (among 1000+ participants) held at Navi Mumbai.</p>
+<p align="left"><h3 align="left">✨ About Me</h3>I’m a Computer Engineering student specializing in AI & ML, with a strong interest in web development. Always eager to learn new technologies, collaborate on impactful projects, and turn innovative ideas into reality.</p>
 <hr>
 
 
@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/prathmesh-gawade-profile/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
         height="35" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=prathmeshgawade.dev@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.instagram.com/pratham_gawade18/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 </div>
 
 ###
