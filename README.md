@@ -40,15 +40,8 @@
 </div>
 
 ###
-<hr>
-<p align="left"><h3 align="left">🎓 Education</h3>🎓 10th Grade, Shri Mahavir Jain English School (2010 – 2020) - 94% <br>🎓 MHTCET22, Competitive Examination (2020 – 2022) - 95.76% <br>🎓 Btech CSE, Vidyalankar Institute of Technology (2022 – 2026) - 9.11 CGPA</p>
-<hr>
-
-
 
 <p align="left"><h3 align="left">📊 GitHub Stats</h3></p>
-
-
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshGawade19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
