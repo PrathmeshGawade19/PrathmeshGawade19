@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left"><h3 align="left">✨ About Me</h3>I’m a Computer Engineering student specializing in AI & ML, with a strong interest in web development. Always eager to learn new technologies, collaborate on impactful projects, and turn innovative ideas into reality.</p>
+<p align="left"><h3 align="left">About Me</h3>I’m a Computer Engineering student specializing in AI & ML, with a strong interest in web development. Always eager to learn new technologies, collaborate on impactful projects, and turn innovative ideas into reality.</p>
 <hr>
 
 
-<h2 align="left">🌐 Connect with Me</h2>
+<h2 align="left">Connect with Me</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 <hr>
-<h3 align="left">💻 Tech Stack:</h3>
+<h3 align="left">Tech Stack:</h3>
 
 ###
 
@@ -38,10 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px;" alt="numpy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:40px;" alt="pandas logo" />
 </div>
+<hr>
 
 ###
 
-<p align="left"><h3 align="left">📊 GitHub Stats</h3></p>
+<p align="left"><h3 align="left">GitHub Stats</h3></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshGawade19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
