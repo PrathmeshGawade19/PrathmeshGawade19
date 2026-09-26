@@ -38,13 +38,3 @@ and data analytics. Always eager to learn new technologies, collaborate on impac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="height:40px;" alt="pandas logo" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
 </div>
-<hr>
-
-###
-
-<p align="left"><h3 align="left">GitHub Stats</h3></p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathmeshGawade19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmeshGawade19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-<div align="center">
